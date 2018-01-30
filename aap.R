@@ -1,1 +1,5 @@
-aap <- 1+1
+# this is just an example file
+
+myfunction <- function(a, b){
+  a^b
+}
